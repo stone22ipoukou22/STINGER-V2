@@ -3,26 +3,26 @@
 //Instagram: unicorn_xeon13
 //Telegram: t.me/xeonbotinc
 //GitHub: @DGXeon
-//WhatsApp: +2348187637779
+//WhatsApp: +242066328691
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@esteams
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "242044190987"
-global.ownername = "BLOOD JOKER👑"
+global.ownernomer = "242066328691"
+global.ownername = "dataJOKER👑"
 global.ytname = "YT: paskito"
 global.socialm = "GitHub: paskito002"
 global.location = "Nigeria,Cross River,Calabar"
 
-global.ownernumber = '242044190987'  //creator number
-global.ownername = 'BLOOD JOKER👑' //owner name
+global.ownernumber = '242066328691'  //creator number
+global.ownername = 'data JOKER👑' //owner name
 global.botname = 'S҉ T҉ I҉ N҉ G҉ E҉ R҉- V҉ 2҉' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑\n\nContact: +2348187637779'
+global.author = 'ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑\n\nContact: +242066328691'
 
 //console view/theme
 global.themeemoji = '🪀'
